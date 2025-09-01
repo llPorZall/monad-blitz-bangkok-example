@@ -3,7 +3,9 @@
 
 1. Visit the [monad-blitz-bangkok repo](https://github.com/Contribution-DAO/monad-blitz-bangkok) and **fork** it.  
 
-2. Enter your **project name** and a **one-line description**.  
+![fork repo](https://imagedelivery.net/R3E4xa2RUTElUFZLaIyRPQ/08d28067-cc23-46c2-5cf3-2d0c5b0ae800/public)  
+
+3. Enter your **project name** and a **one-line description**.  
    - Make sure you are forking the **main** branch.  
    - Then click **Create Fork**.  
 
